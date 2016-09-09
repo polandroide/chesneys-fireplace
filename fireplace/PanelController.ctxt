@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel
+comment0.target=PanelController(javax.swing.JFrame,\ javax.swing.JPanel)
+comment0.text=\r\n\ \r\n\ @param\ frame\ -\ reference\ to\ the\ buyer\ Interface\ frame\r\n\ @param\ contentPanel\ -\ reference\ to\ the\ buyer\ Interface\ \r\n\ panel\ which\ is\ a\ boarder\ layout.\ The\ panel\ in\ this\ \r\n\ code\ below\ is\ the\ CENTER\ panel\ which\ is\ added\ to\ the\r\n\ contentPanel.\ Overkill\ -\ maybe.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ addPanelRepaint()
+comment1.text=\r\n\ a\ method\ to\ clean\ the\ existing\ panel\r\nand\ then\ to\ repaint\ the\ buyer\ interface\ frame\r\n\ \r\n
+numComments=2

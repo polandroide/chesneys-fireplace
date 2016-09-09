@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel\ titleLabel\ supplier
+comment0.target=SupplierUpdate(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JLabel,\ Supplier)
+comment0.text=\r\n\ Sets\ the\ label,\ calls\ the\ panelStyle\ and\ repaint\r\n\ @param\ frame\ -\ the\ buyer\ interface\ frame\r\n\ @param\ contentPanel\ -\ the\ buyer\ interface\ content\ panel\r\n\ @param\ titleLabel\ -\ the\ buyer\ interface\ title\ label\r\n\ @param\ supplier\ -\ the\ supplier\ from\ SupplierAdd\ or\ SupplierFind\r\n
+comment1.params=
+comment1.target=void\ setPanelStyle()
+comment1.text=\r\n\ sets\ the\ style\ of\ the\ panel\r\n
+comment2.params=
+comment2.target=void\ saveUpdates()
+comment2.text=\r\n\ accesses\ the\ supplier\ to\ update\ the\ supplier\ fields\r\n
+numComments=3

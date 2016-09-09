@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel\ titleLabel
+comment0.target=FireplaceAdd(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JLabel)
+comment0.text=\r\n\ Creates\ the\ parent\ class\ and\ calls\ to\ set\ the\ style\r\n\ @param\ frame\ -\ the\ buyer\ interface\ frame\r\n\ @param\ contentPanel\ -\ the\ buyer\ interface\ content\ panel\r\n\ @param\ titleLabel\ \ -\ \r\n
+comment1.params=
+comment1.target=void\ setPanelStyle()
+comment1.text=\r\n\ sets\ the\ style\ of\ the\ panel\r\n
+comment2.params=
+comment2.target=void\ setSupplierNames()
+comment2.text=\r\n\ sets\ the\ suppliers'\ names\r\n
+comment3.params=
+comment3.target=void\ saveNewItem()
+comment3.text=\r\n\ creates\ a\ new\ fireplace\ object\ and\ attempts\r\n\ to\ save\ it\ to\ the\ database\r\n
+comment4.params=
+comment4.target=boolean\ getNumericalTypes()
+comment4.text=\r\n\ checks\ whether\ the\ values\ input\ into\ the\ textfield\ \r\n\ are\ numerical.\r\n\ @return\ -\ true\ if\ the\ values\ are\ numerical\r\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BuyerInterface()
+comment0.text=\r\n\ The\ buyer\ interface\ constructor\ sets\ the\ \r\n\ content\ and\ the\ menu\ bar\r\n
+comment1.params=
+comment1.target=void\ setInterfaceStyle()
+comment1.text=\r\n\ sets\ the\ look\ and\ feel\ of\ the\ Buyer\ \r\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ getDefaultContentPanel()
+comment2.text=\r\n\ Creates\ and\ returns\ the\ default\ screen\ for\ the\ interface\r\n\ @return\ -\ the\ default\ JPanel\r\n
+comment3.params=
+comment3.target=void\ setMenuPanel()
+comment3.text=\r\n\ sets\ the\ Menu\ Panel\r\n
+numComments=4

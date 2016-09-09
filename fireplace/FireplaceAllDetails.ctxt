@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel\ titleLabel\ fireplace
+comment0.target=FireplaceAllDetails(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JLabel,\ Fireplace)
+comment0.text=\r\n\ Creates\ the\ parent\ class\ and\ calls\ to\ set\ the\ style\r\n\ @param\ frame\ -\ the\ buyer\ interface\ frame\r\n\ @param\ contentPanel\ -\ the\ buyer\ interface\ content\ panel\r\n\ @param\ titleLabel\ -\ the\ buyer\ interface\ title\ label\r\n\ @param\ fireplace\ -\ uses\ the\ fireplace\ object\ from\ either\ the\r\n\ fireplaceAdd\ or\ fireplaceFind\r\n
+comment1.params=
+comment1.target=void\ setPanelStyle()
+comment1.text=\r\n\ sets\ the\ panel\ style\r\n
+numComments=2

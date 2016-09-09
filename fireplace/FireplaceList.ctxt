@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel\ titleLabel
+comment0.target=FireplaceList(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JLabel)
+comment0.text=\r\n\ Creates\ the\ parent\ class\ and\ calls\ to\ set\ the\ style\r\n\ @param\ frame\ -\ the\ buyer\ interface\ frame\r\n\ @param\ contentPanel\ -\ the\ buyer\ interface\ content\ panel\r\n\ @param\ titleLabel\ -\ the\ buyer\ interface\ title\ label\r\n
+comment1.params=
+comment1.target=void\ setPanelStyle()
+comment1.text=\r\n\ sets\ the\ style\ of\ the\ panel\r\n
+numComments=2

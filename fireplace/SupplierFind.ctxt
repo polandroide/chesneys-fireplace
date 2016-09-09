@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=frame\ contentPanel\ titleLabel
+comment0.target=SupplierFind(javax.swing.JFrame,\ javax.swing.JPanel,\ javax.swing.JLabel)
+comment0.text=\r\n\ Creates\ the\ parent\ class\ and\ calls\ to\ set\ the\ style\r\n\ @param\ frame\ -\ the\ buyer\ interface\ frame\r\n\ @param\ contentPanel\ -\ the\ buyer\ interface\ content\ panel\r\n\ @param\ titleLabel\ -\ the\ buyer\ interface\ title\ label\r\n
+comment1.params=
+comment1.target=void\ setPanelStyle()
+comment1.text=\r\n\ a\ method\ to\ set\ the\ style\ of\ the\ panel\r\n
+comment2.params=
+comment2.target=void\ setFoundPanelStyle()
+comment2.text=\r\n\ a\ method\ run\ after\ the\ button\ press\ that\ checks\r\n\ the\ text\ input\ and\ tries\ to\ locate\ the\ Supplier\r\n\ in\ the\ database\ through\ the\ Supplier\ object\r\n
+numComments=3
